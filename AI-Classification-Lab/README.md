@@ -133,7 +133,7 @@ If prompted do not let the setup process silently fabricate or replace an author
 
 Suggested prompt:
 
-> Set up the AI Classification Lab on this test SharePoint site using the supplied `RDS.xlsx`. Create or validate the three lab libraries and their metadata, prepare fictional sample documents, but do not classify anything yet. Report what succeeded and what needs attention.
+> Set up the AI Classification Lab on this test SharePoint site. Create or validate the three lab libraries and their metadata, prepare fictional sample documents, but do not classify anything yet. Report what succeeded and what needs attention, i'll upload the `RDS.xlsx` separately.
 
 Check that the three libraries exist, the workbook is readable and the sample files are available. Inspect the columns before running any classification.
 
@@ -143,7 +143,7 @@ Open **Classification Lab**, select one readable sample document and invoke the 
 
 Suggested prompt:
 
-> Run AI Classification Review on the selected document using `Records Classification Reference/RDS.xlsx`. Explain the recommended class, alternatives and uncertainty, and create the report in Classification Results. Don't force a classification if the evidence is insufficient.
+> For the selected item, run AI Classification Review, explain the recommended class, alternatives and uncertainty, and create the report in Classification Results. Don't force a classification if the evidence is insufficient.
 
 Copilot should report whether it completed the assessment and whether it updated source metadata. **Verify the actual SharePoint item and report** rather than assuming that a chat response means every action succeeded.
 
