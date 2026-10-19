@@ -6,10 +6,6 @@ This repository provides two reusable Copilot in SharePoint skills designed to h
 
 Read the accompanying article: **[Exploring AI Classification in SharePoint](https://lnkd.in/p/gA6k5DjH)**
 
-
-
-https://lnkd.in/p/gA6k5DjH
-
 > **Learning environment only.** Use a separate test SharePoint site and fictional or appropriately authorised documents. Do not rely on this demonstration to determine retention, disposal or regulatory compliance obligations.
 
 ## What you'll explore
