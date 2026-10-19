@@ -98,7 +98,7 @@ The sample workbook and **both** skill definitions must agree on the workbook na
 
 ### 2. Check skill consistency before testing
 
-Before installing or invoking the skills, make these edits consistently in **both** `SKILL.md` files:
+Before setting up or invoking the skills, make these edits consistently in **both** `SKILL.md` files:
 
 1. Replace `RDA.xlsx` with the supplied `RDS.xlsx` in the front matter, inputs, validation, processing steps, report templates and output checklists. Verify the worksheet name too; the review skill currently prefers a sheet called `RDA`.
 2. Agree on the required workbook columns: `FunctionName` (value to return) and `ClassDescription` (text to compare), or consistently substitute different headings as explained in the next section.
