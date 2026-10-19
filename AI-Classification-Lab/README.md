@@ -30,7 +30,6 @@ skills/
     SKILL.md
 sample-data/
   RDS.xlsx
-  documents/                 # optional fictional test files
 ```
 
 **Skill 1 — AI Classification Lab Setup** prepares the SharePoint libraries, columns and fictional training content, and checks that the environment is ready. It should not classify documents during setup.
