@@ -125,9 +125,9 @@ Site skills run within the user's existing SharePoint permissions; they do not c
 
 ### 4. Make the sample RDS available
 
-Place the provided `RDS.xlsx` somewhere the site skill can access, and tell the setup skill where it is. Ask it to create the **Records Classification Reference** library and place the workbook there. If the skill cannot perform the file operation, upload the workbook to that library manually and then run the setup validation again.
+Place the provided `RDS.xlsx` so the ai-classification-review site skill can access it in the **Records Classification Reference** library that was create by the Lab set up skill.
 
-Do not let the setup process silently fabricate or replace an authoritative RDS. The downloadable example is intended to keep everyone's starting point consistent.
+If prompted do not let the setup process silently fabricate or replace an authoritative RDS. The downloadable example is intended to keep everyone's starting point consistent.
 
 ### 5. Run the setup skill
 
