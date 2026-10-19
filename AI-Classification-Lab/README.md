@@ -4,7 +4,11 @@
 
 This repository provides two reusable Copilot in SharePoint skills designed to help you explore how AI-assisted records classification behaves. The goal is **not** to provide a production records management solution. It is to help you test recommendations, inspect explanations, challenge assumptions and learn how instructions and classification references influence results.
 
-Read the accompanying article: **[Exploring AI Classification in SharePoint]([Linked In]([https://au.linkedin.com/in/andrewjolly](https://lnkd.in/p/gA6k5DjH]))**.
+Read the accompanying article: **[Exploring AI Classification in SharePoint](https://lnkd.in/p/gA6k5DjH)**
+
+
+
+https://lnkd.in/p/gA6k5DjH
 
 > **Learning environment only.** Use a separate test SharePoint site and fictional or appropriately authorised documents. Do not rely on this demonstration to determine retention, disposal or regulatory compliance obligations.
 
